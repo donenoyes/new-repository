@@ -1,4 +1,4 @@
-``` kotlin
+```kotlin
 // write
 private val emitter: EventEmitter<String> = EventEmitter()
 val events: EventSource<String> = emitter
